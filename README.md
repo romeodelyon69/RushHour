@@ -10,4 +10,4 @@ Le deuxième est relativement similaire mais se base sur une heuristique pour ex
 Deux heuristiques sont implementées, une première qui se base sur le nombre de voiture bloquant la voiture rouge. La seconde pénalise d'autant plus fortement ces 
 voitures bloquantes si elles même sont également bloquées et ne peuvent pas libérer le passage à la voiture rouge en 1 seul coup. 
 
-Enfin, le projet contient également une fonction play(), qui permet de lancer une partie à laquelle le joueur pourra jouer (utile pour déboguer). 
+Enfin, le projet contient également une fonction play(), qui permet de lancer une partie à laquelle le joueur pourra jouer (utile pour déboguer). Pour jouer, il suffit de sélectionner la voiture par son numéro (fonctionne jusqu'à 9 voitures) et de la déplacer avec les flèches associées. 
