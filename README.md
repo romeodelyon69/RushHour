@@ -1,3 +1,5 @@
+Important : pour utiliser le notebook, il est essentiel de télécharger les fichiers d'initialisation GameP01.txt jusqu'à GameP40.txt et de référencer le chemin d'accès associé dans la variable file_path_rad au dans la première cellule du notebook. 
+
 Le projet associé présente un algorithme capable de résoudre le jeu du RushHour. L'objectif étant de faire sortir la voiture rouge du parking.  
 Les fichiers textes associés representent chacun  une position de départ qu'il faut résoudre. 
 
